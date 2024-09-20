@@ -55,10 +55,10 @@ p {
     width: 90%;
 }
 
-.description {
+span.description {
     color: rgb(227, 18, 255);
     text-align:justify;
-    font-size: 90%;
+    font-size: 85%;
     margin-left: 15px;
     margin-right: 15px;
 }
